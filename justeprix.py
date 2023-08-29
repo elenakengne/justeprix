@@ -1,4 +1,4 @@
-#tirage au sort d'un prix entre 1 et 10 (compris)
+#tirage au sort d'un prix entre 1 et 10 
 import random
 cible=random.randint(1,10)
 
